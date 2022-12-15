@@ -1,0 +1,15 @@
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\bin\Debug\net7.0\Hay.exe
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\Hay\bin\Debug\net7.0\Hay.deps.json
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\Hay\bin\Debug\net7.0\Hay.runtimeconfig.json
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\bin\Debug\net7.0\Hay.dll
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\bin\Debug\net7.0\Hay.pdb
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.csproj.AssemblyReference.cache
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.AssemblyInfoInputs.cache
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.AssemblyInfo.cs
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.dll
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\refint\Hay.dll
+C:\Users\ACER\Source\Repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.pdb
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\Hay.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\Hay\obj\Debug\net7.0\ref\Hay.dll

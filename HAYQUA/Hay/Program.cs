@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-string name = null;
+﻿
+string name = "hay";
+Console.WriteLine(name);
+Console.WriteLine("ko vuie");

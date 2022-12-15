@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\bin\Debug\net7.0\HayKo.exe
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\bin\Debug\net7.0\HayKo.deps.json
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\bin\Debug\net7.0\HayKo.runtimeconfig.json
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\bin\Debug\net7.0\HayKo.dll
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\bin\Debug\net7.0\HayKo.pdb
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.AssemblyInfo.cs
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.dll
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\refint\HayKo.dll
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.pdb
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\HayKo.genruntimeconfig.cache
+C:\Users\ACER\source\repos\C2109I2Csharp\HAYQUA\HayKo\obj\Debug\net7.0\ref\HayKo.dll
